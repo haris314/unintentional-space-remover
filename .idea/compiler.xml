@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Unintentional space remover 2.0" />
         <module name="Unintentional Space Remover 2.0" />
+        <module name="unintentional-space-remover-2.0" />
       </profile>
     </annotationProcessing>
   </component>
